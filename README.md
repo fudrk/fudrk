@@ -1,11 +1,11 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 
 
-<a href="https://github.com/fudrk"><img src="https://raw.githubusercontent.com/fudrk/fudrk/main/img/69464190cb402b0eb03205567c32558e.gif"></a>
+<a href="https://github.com/fudrk"><img src="https://raw.githubusercontent.com/fudrk/fudrk/main/img/a.gif"></a>
 
 
 <p align="center">
-  <img style="border-radius: 15px; display: block; margin: 0 auto; margin-bottom: 20px;" width="400" src="https://raw.githubusercontent.com/fudrk/fudrk/main/img/kedy.gif">
+  <img style="border-radius: 15px; display: block; margin: 0 auto; margin-bottom: 20px;" width="400" src="https://raw.githubusercontent.com/fudrk/fudrk/main/img/e.gif">
 </p>
 
 
