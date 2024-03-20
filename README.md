@@ -34,6 +34,11 @@ def  __social__(self):
  └─$
 ```
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fudrk&theme=material-palenight&custom_title=used%20languages!&hide_border=true&layout=compact&hide=Objective-C%2B%2B,Objective-C,Makefile,CMake)
+
+![my stats](https://github-readme-stats.vercel.app/api?username=fudrk&theme=material-palenight&show_icons=true&disable_animations=false&custom_title=nerdy%20stats%20>.<&hide_border=true)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=fudrk&theme=nightowl&hide_border=false)
+
 <p align="center"><img src="https://count.getloli.com/get/@:fudrk" alt=":fudrk" /></p>
 
  
