@@ -33,7 +33,7 @@ def  __social__(self):
  ┌──(fudrk@root)-[~/]
  └─$
 ```
-
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fudrk&theme=material-palenight&custom_title=used%20languages!&hide_border=true&layout=compact&hide=Objective-C%2B%2B,Objective-C,Makefile,CMake)
 <p align="center"><img src="https://count.getloli.com/get/@:fudrk" alt=":fudrk" /></p>
 
  
