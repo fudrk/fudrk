@@ -27,8 +27,8 @@ class fudrk:
 
 def  __social__(self):
  self.gtb = "https://github.com/fudrk"
- self.dsc = "fudrk" 
- self.tlg = "fudrk"
+ self.dsc = "3_g" 
+ self.x = "0xfudrk"
   
  ┌──(fudrk@root)-[~/]
  └─$
