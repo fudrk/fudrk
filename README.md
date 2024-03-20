@@ -58,4 +58,4 @@ def  __social__(self):
 
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
-<a href="https://github.com/fudrk/"><img src="https://raw.githubusercontent.com/fudrk/fudrk/main/img/a.gif"></a>
+<a href="https://github.com/fudrk/"><img src="https://raw.githubusercontent.com/fudrk/fudrk/main/img/69464190cb402b0eb03205567c32558e.gif"></a>
